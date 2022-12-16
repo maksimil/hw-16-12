@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+make poly_test
+./bin/Debug/poly_test
